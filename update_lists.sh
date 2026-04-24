@@ -36,6 +36,11 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
 https://badmojr.github.io/1Hosts/Lite/adblock.txt \
+https://v.firebog.net/hosts/Easyprivacy.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
+https://urlhaus.abuse.ch/downloads/hostfile \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini-onlydomains.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
