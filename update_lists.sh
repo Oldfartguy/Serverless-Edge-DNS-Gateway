@@ -31,7 +31,7 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://big.oisd.nl/domainswild2 \
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
