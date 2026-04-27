@@ -31,11 +31,17 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
+https://v.firebog.net/hosts/AdguardDNS.txt \
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
+https://v.firebog.net/hosts/Easyprivacy.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
-https://badmojr.github.io/1Hosts/Lite/adblock.txt \
+https://urlhaus.abuse.ch/downloads/hostfile \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini-onlydomains.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
