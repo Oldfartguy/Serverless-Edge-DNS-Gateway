@@ -34,9 +34,7 @@ curl -fsSL --max-time 60 \
 https://v.firebog.net/hosts/AdguardDNS.txt \
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.plus-onlydomains.txt \
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
-https://v.firebog.net/hosts/Easyprivacy.txt \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt \
