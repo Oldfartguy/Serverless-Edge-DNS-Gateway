@@ -327673,19 +327673,25 @@ authors.bind
 1717.1000uc.com
 176.65.149.223.ptr.pfcloud.network
 30vw.mav8loren.lat
+3ohr8brt.qen2virex.lat
 4dapt3-node.pavlore9.surf
+4rray-dock.7zorelax.lat
 50cia8-route.3toravix.lat
+5107vvgb.tavro4xel.lat
 5cri-logic.xamir3on.lat
 5dk-array.tavro6xel.lat
 5parr-forge.torex5lin.surf
 5t4g3-port.3toravix.lat
 5udd-signal.qen9varol.lat
+69zhzd.tavro4xel.lat
+75aohwq.qen2virex.lat
 7m5mdmsm.qeniral8.surf
 8rvi.noopcup.surf
 9sgsurs.vexon3ar.surf
 9thvfl.2zavlore.surf
 a1ig-vector.vexon3ar.surf
 aakrutitexture.in
+abh.openlinksys.lat
 acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
@@ -327693,6 +327699,7 @@ acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
 agence-immobiliere-lyon.com
+agmdojf.7zorelax.lat
 alarmline.com.br
 alig9-trail.1dorelax.surf
 allendostmen.com
@@ -327724,6 +327731,7 @@ apiops.verdi7rax.lat
 apiopss.fatovism-r2ccoon.lat
 apiopss.filipen-typograp.lat
 apiopss.lorex7in.surf
+apiopss.openlinksys.lat
 apiopss.ultrashiftnet.surf
 appbox.5lorexin.surf
 appbox.6toralex.surf
@@ -327743,6 +327751,7 @@ appsrc.verdi7rax.lat
 appsrch.fatovism-r2ccoon.lat
 appsrch.filipen-typograp.lat
 appsrch.lorex7in.surf
+appsrch.openlinksys.lat
 appsrch.ultrashiftnet.surf
 appsrch.zooblob.surf
 ardena.pro
@@ -327766,12 +327775,10 @@ autboxs.pav8lorex.lat
 autboxs.plsqlnew.surf
 autboxs.primeflowspace.surf
 autboxs.softworkapi.lat
-autobaenasl.com
 avbackup.acionline.de
 axwq1.sorix7el.lat
 backupso.com
 balance4-array.mav3torel.surf
-bblissmassage.com
 bbos.minet.vn
 beoauto.alexion.rs
 bit-fox.mav2terol.surf
@@ -327801,6 +327808,7 @@ blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
+bombayonline.in
 book.rollingvideogames.com
 bracell.latitude.net.br
 bridgeroad.maverickpreviews.com
@@ -327809,7 +327817,6 @@ bs3qkgdh.pav8lorex.lat
 buffer-switch.mav2lirex.lat
 bvaco.com
 c.fi3.me
-cad.659t.cn
 cambodiatouristservice.com
 casuashor.7lorexan.surf
 cat.xiaoshabi.nl
@@ -327824,6 +327831,7 @@ chat-server.maverickpreviews.com
 checkinetverifk.com
 chinaapper.com
 chungminhtaichinhsaigon.net
+ciabjdb.mav8loren.lat
 cirshift.portcry.surf
 cl.ssouy.com
 clipaid.app
@@ -327876,7 +327884,6 @@ crimefreesoftware.com
 crystalpvp.ru
 crystalreef.vexon3ar.surf
 cs.go.kg
-csg-app.com
 ct3-24.ru
 d.14yaa.com
 d3c0de-scope.xamir3on.lat
@@ -327965,7 +327972,6 @@ download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
-download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
 dowonline.ru
@@ -327982,7 +327988,6 @@ echo-sync.sorix7en.surf
 eciepxlt.solid5lowly.digital
 ehtpff9z.mav3torel.surf
 electri.billregulator.com
-elisans.novayonetim.com
 en.taichuan.com
 envset.gavi1lor.lat
 envset.grov6lira.lat
@@ -328001,7 +328006,6 @@ eqdq.vexon4al.lat
 estudio.ythan.com.br
 evangroup.ru
 everycarebd.com
-explorer.vg
 ext-net.xam1riel.surf
 ext-net.xamir9on.surf
 extnet.quantumlinkpoint.lat
@@ -328020,6 +328024,7 @@ fertas.com.tr
 ffjc9r7.vexon4al.lat
 file.blackint3.com
 filerit.com
+filte-path.7zorelax.lat
 first-security-verden.de
 fl4me-field.qen9varol.lat
 flovv-zone.7lorexan.surf
@@ -328085,6 +328090,7 @@ gutando.com
 handlerharvest.fewhtml.surf
 hasalltalent.com
 hgt3.7toralex.lat
+hitman-pro.ru
 hitstation.nl
 hobobot.net
 hotfix.extremesecureline.lat
@@ -328101,6 +328107,7 @@ hotfixs.stick-shaped.lat
 hvkxevet.2zavlore.surf
 hyper-cr4te.1dorelax.surf
 hypersprout.portcry.surf
+icoffeecloud.com
 ieke13.7toralex.lat
 iigbclf.1dorelax.surf
 imagedraw.mav2lirex.lat
@@ -328179,6 +328186,7 @@ lanhop.masterhypernodehub.lat
 lanhop.vexo3nar.surf
 lanhop.vexon4al.surf
 lanhops.captive-portal.lat
+lanhops.linkdevbase.lat
 lanhops.portcry.surf
 lanhops.quantumtechbox.surf
 lanhops.sorix9el.surf
@@ -328211,6 +328219,7 @@ logbin.verdi7rax.lat
 logbins.fatovism-r2ccoon.lat
 logbins.filipen-typograp.lat
 logbins.lorex7in.surf
+logbins.openlinksys.lat
 logbins.ultrashiftnet.surf
 logbins.zooblob.surf
 lomejordesalamanca.es
@@ -328270,10 +328279,10 @@ mundocarnes.cl
 mvx23.pav8lorex.lat
 mxqbq.xamir2el.surf
 mygrocerbox.com
-mykitchenindonesia.com
 n.vs108.com
 n3ur4-route.torex5lin.surf
 ncxps.com
+neo-anch0r.7zorelax.lat
 neotcdk.7toralex.lat
 net-man.4dorexal.surf
 net-man.8dorexin.surf
@@ -328307,6 +328316,7 @@ ny.lshdw.cc
 oczl.torex5lin.surf
 officials.ink
 ohkmpt.tavro6xel.lat
+oixkxhga.qen2virex.lat
 oiyksxf.vexon3ar.surf
 ojang.pe.kr
 okhan.net
@@ -328329,6 +328339,7 @@ optweb.xena4vax.lat
 optwebs.5dorexin.lat
 optwebs.clampe7outback.lat
 optwebs.cybermetagrid.surf
+optwebs.datarunkey.lat
 optwebs.mel2vrax.surf
 optwebs.rodrules.surf
 osbase.1zorelix.surf
@@ -328411,7 +328422,6 @@ quorvale4et.vexon3ar.surf
 qz.697539.com
 r3ba-field.mav3torel.surf
 r3lay-branch.vexon4al.lat
-railmix.3toravix.lat
 ramirex.ro
 rawdat.cryptoshiftgridsys.lat
 rawdat.infinitydatagrid.lat
@@ -328441,13 +328451,16 @@ refid.pavi1xen.lat
 refid.vertexpointlinknet.lat
 refid.vertexshifthub.lat
 refinspruc.1dorelax.surf
+refrigeracion.delmondexpress.com
 reifenquick.de
 res.cargowhy.surf
 resolvrou.mav2lirex.lat
 reutilizemais.co.mz
 rheddh.com
+rich-endpo.tavro4xel.lat
 riderspin.com
 ritee.in
+rl035mt.7zorelax.lat
 rl88qulx.izyob7rickets.digital
 rnoon-panel.qeniral8.surf
 robertrowe.com
@@ -328460,10 +328473,12 @@ sablayan.seasonshotelmindoro.com
 sabungkingbet189.com
 salemacro.xamir2el.surf
 sampl-boo.qeniral8.surf
+sandman.qen2virex.lat
 sbg86o.qeniral8.surf
 scainseto.com.br
 scenwave.pav8lorex.lat
 sdlxmetal.com
+sec.dashabi.in
 sec.xiaoshabi.nl
 seismophonic.com
 separadordecc.com
@@ -328548,6 +328563,7 @@ sshpros.5dorexin.lat
 sshpros.chemistry5till.lat
 sshpros.clampe7outback.lat
 sshpros.cybermetagrid.surf
+sshpros.datarunkey.lat
 sshpros.mel2vrax.surf
 sshpros.rodrules.surf
 sslkey.extremesecureline.lat
@@ -328565,6 +328581,7 @@ stacksurvey.torex5lin.surf
 static.ilclock.com
 static.youdm.cn
 stdown.dinju.com
+steadymeasure.qen2virex.lat
 steam66.cn
 subcli.gavi1lor.lat
 subcli.grov6lira.lat
@@ -328606,10 +328623,12 @@ syskey.verdi7rax.lat
 syskeys.fatovism-r2ccoon.lat
 syskeys.filipen-typograp.lat
 syskeys.lorex7in.surf
+syskeys.openlinksys.lat
 syskeys.ultrashiftnet.surf
 syskeys.zooblob.surf
 sysops.digitalcloudsys.lat
 sysops.globaldatanetworksys.lat
+tal-linea.tavro4xel.lat
 talentrecruitments.com
 tanscarattorneys.co.tz
 targetcel.plsqlnew.surf
@@ -328635,6 +328654,7 @@ tcpcons.5dorexin.lat
 tcpcons.chemistry5till.lat
 tcpcons.clampe7outback.lat
 tcpcons.cybermetagrid.surf
+tcpcons.datarunkey.lat
 tcpcons.mel2vrax.surf
 tcpcons.rodrules.surf
 tecunonline.com
@@ -328708,11 +328728,13 @@ usrgrps.5dorexin.lat
 usrgrps.chemistry5till.lat
 usrgrps.clampe7outback.lat
 usrgrps.cybermetagrid.surf
+usrgrps.datarunkey.lat
 usrgrps.mel2vrax.surf
 usrgrps.rodrules.surf
 uykfqn.pavlore9.surf
 v0lt-sync.dbuswet.surf
 vagler.ru
+valfanto.com
 validatorpolar.vexon4al.lat
 vcc-library.uk
 vel-nexon.7toralex.lat
@@ -328808,7 +328830,6 @@ www.okhan.net
 www.playtown.co.za
 www.reifenquick.de
 www.saf-oil.ru
-www.salonmarketing.ca
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
@@ -333393,6 +333414,7 @@ allegro.64875.vu
 6598365.com
 659ccf0877385a74.com
 659f4ad99e31f6ab.com
+cad.659t.cn
 65a29920fd150fe9.com
 65a2d7b0a5e3.xyz
 65a7433784a12247.com
@@ -341524,6 +341546,7 @@ auto-verify.online
 auto3.art
 auto9.in
 autoaiproxy.com
+autobaenasl.com
 autobato.guru
 autobodyspareparts.com
 autobot777.center
@@ -345505,7 +345528,6 @@ boltonfirerescue.com
 boltweather.com
 bombafranc.rest
 bombardier-jet.com
-bombayonline.in
 bombayprinters.com
 bomberosvilladelrosario.org
 bombet888.info
@@ -355889,6 +355911,7 @@ csfeail.com
 csfeil.com
 csfial.com
 csfloatlab.com
+csg-app.com
 csgodicegame.com
 csgomarket.org
 csgorolis.com
@@ -357653,7 +357676,6 @@ dellacore.com
 dellavillas.com
 dellflow.click
 delllabs.click
-refrigeracion.delmondexpress.com
 delmora.digital
 deloogrid.digital
 delousegridio.digital
@@ -363531,6 +363553,7 @@ explored.us
 exploreera.com
 explorekeralawithus.com
 explorenewlovepaths.com
+explorer.vg
 explorerex.com
 exploretohorizon.digital
 exploretoluneris.digital
@@ -375074,7 +375097,6 @@ hitender.biz
 hitherlabs.click
 hitit-live.online
 hitmail.co
-hitman-pro.ru
 hitmantest.club
 hits.care
 hitteen.com
@@ -376907,7 +376929,6 @@ icloudseguro.com
 icm.kr
 icm.su
 icmchina.com
-icoffeecloud.com
 icohair.com
 iconbase.com
 iconchatbot-telegram.win
@@ -392114,6 +392135,7 @@ novatradewave.com
 novatrail.my
 novatrustbank.top
 novawallet.net
+elisans.novayonetim.com
 novelizeflow.digital
 novellaflow.click
 novellayer.digital
@@ -396030,6 +396052,7 @@ pd7.jp
 pdal-adguard.pro
 pdd302.com
 pdf.pro
+download.pdf00.cn
 pdflg.com
 pdfplugout.com
 pdfworker.online
@@ -416460,7 +416483,6 @@ valerallabs.click
 valerianzebu.life
 valerie-35.ru
 valeriebaudret.com
-valfanto.com
 valfire.com
 valfood.pics
 valid-coinbase.com
