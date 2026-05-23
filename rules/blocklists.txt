@@ -347027,7 +347027,6 @@ c.fi3.me
 c2.mc-live.online
 cache-orbit.christmas
 cad.659t.cn
-carcaran.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
@@ -347224,6 +347223,7 @@ pigtweet-kitdiff-it.christmas
 pixelart-canvas.christmas
 planetariumobil.ro
 plasteredplayn.com
+pns.org.pk
 pobedastaff.ru
 pos-mobile.enlineatechnologies.com
 postelnini.mk
@@ -347259,7 +347259,6 @@ sec.xiaoshabi.nl
 seismophonic.com
 separadordecc.com
 sg123.net
-shaderm.com
 shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
@@ -354334,7 +354333,6 @@ oablages.org.br
 office.org.pl
 paws.org.au
 pffb.org.pk
-pns.org.pk
 sbcenfield.org.uk
 sociedadnuclear.org.mx
 standardlife.org.ng
@@ -435376,6 +435374,7 @@ shad0wmint.ru
 shad0wmist.ru
 shade.network
 shade3.fund
+shaderm.com
 shadicorp.com
 shadix.to
 shadow-byte.com
