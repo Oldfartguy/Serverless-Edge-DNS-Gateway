@@ -31,22 +31,7 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt \
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.amazon-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini-onlydomains.txt \
-https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
-https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
+https://raw.githubusercontent.com/Oldfartguy/Blocklist_minimal_Serverless-DNS-gateway/refs/heads/main/blocklists.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
